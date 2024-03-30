@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola👋, I'm Vanshika Mishra🦋</h1>
 <h3 align="center">Just an Ordinary girl with an Extraordinary Dream !!</h3>
-<h3 align="center">A Passionate Full Stack Developer from India:)</h3>
+<h3 align="center">A Passionate Developer & Machine Learning Enthusiast from India:)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 
