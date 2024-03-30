@@ -20,7 +20,9 @@
 <p align="left">
 
 
-<a href="https://www.linkedin.com/in/vanshika-mishra-854333220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/LinkedIn.svg" alt="vanshika-mishra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vanshika-mishra-854333220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vanshika-mishra-854333220/" height="30" width="40" /></a>
+
+
 
 <a href="https://www.kaggle.com/myselfvanshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="myselfvanshika" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/myselfvanshika8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="myselfvanshika8" height="30" width="40" /></a>
