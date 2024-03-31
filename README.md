@@ -3,11 +3,16 @@
 <h1 align="center">Hola👋, I'm Vanshika Mishra🦋</h1>
 <h3 align="center">Just an Ordinary girl with an Extraordinary Dream !!</h3>
 <h3 align="center">A Passionate Developer & Machine Learning Enthusiast from India:)</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0qjr-rVhm3cLsxr9oBPnFh&ust=1711983475452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjw5cnhnoUDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw0qjr-rVhm3cLsxr9oBPnFh&ust=1711983475452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjw5cnhnoUDFQAAAAAdAAAAABAp">
 
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0qjr-rVhm3cLsxr9oBPnFh&ust=1711983475452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjw5cnhnoUDFQAAAAAdAAAAABAE" alt="myselfvanshu" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw0qjr-rVhm3cLsxr9oBPnFh&ust=1711983475452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjw5cnhnoUDFQAAAAAdAAAAABAp" alt="myselfvanshu" /> </p>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanshikaMishra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 - Pursuing **B.Tech** in **Computer Science & Engineering(2021-2025) ✍️**
 - 🌱 Currently Learning **Block Chain Development and Data Analytics 📚👩🏻‍🎓**
