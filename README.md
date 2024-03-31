@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfvanshu&label=Profile%20views&color=0e75b6&style=flat" alt="myselfvanshu" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0qjr-rVhm3cLsxr9oBPnFh&ust=1711983475452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjw5cnhnoUDFQAAAAAdAAAAABAE" alt="myselfvanshu" /> </p>
 
 
 - Pursuing **B.Tech** in **Computer Science & Engineering(2021-2025) ✍️**
