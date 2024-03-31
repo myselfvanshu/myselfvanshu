@@ -3,7 +3,7 @@
 <h1 align="center">Hola👋, I'm Vanshika Mishra🦋</h1>
 <h3 align="center">Just an Ordinary girl with an Extraordinary Dream !!</h3>
 <h3 align="center">A Passionate Developer & Machine Learning Enthusiast from India:)</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0qjr-rVhm3cLsxr9oBPnFh&ust=1711983475452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjw5cnhnoUDFQAAAAAdAAAAABAE">
 
 
 <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0qjr-rVhm3cLsxr9oBPnFh&ust=1711983475452000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjw5cnhnoUDFQAAAAAdAAAAABAE" alt="myselfvanshu" /> </p>
