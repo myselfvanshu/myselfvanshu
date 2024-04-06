@@ -6,7 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfvanshu&label=Profile%20views&color=0e75b6&style=flat" alt="myselfvanshu" /> </p>
-<p align="left"> <a href="https://twitter.com/VanshikaMishra_" target="blank"><img src="https://twitter.com/VanshikaMishra_?logo=twitter&style=for-the-badge" alt="VanshikaMishra_" /></a> </p>
+
 
 
 
