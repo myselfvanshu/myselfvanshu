@@ -4,14 +4,7 @@
 <h3 align="center">A Passionate Developer & Machine Learning Enthusiast from India:)</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfvanshu&label=Profile%20views&color=0e75b6&style=flat" alt="myselfvanshu" /> </p>
-
-
-
-
-
-
 
 - Pursuing **B.Tech** in **Computer Science & Engineering(2021-2025) ✍️**
 - 🌱 Currently Learning **Block Chain Development and Data Analytics 📚👩🏻‍🎓**
@@ -42,5 +35,5 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=myselfvanshu&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?usermyselfvanshutheme=nightowl&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=myselfvanshu&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfvanshu&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
