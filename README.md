@@ -1,4 +1,3 @@
-![](https://github.com/myselfvanshu/myselfvanshu/blob/main/Purple%20Futuristic%20Web%20Agreement%20Banner.png)
 
 <h1 align="center">Hola👋, I'm Vanshika Mishra🦋</h1>
 <h3 align="center">Just an Ordinary girl with an Extraordinary Dream !!</h3>
