@@ -39,7 +39,9 @@
  </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfvanshu&show_icons=true&locale=en&layout=compact&theme=github" alt="myselfvanshu" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myselfvanshu&show_icons=true&locale=en&theme=github" alt="myselfvanshu" /></p>
-
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ishitadutta1306&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ishitadutta1306&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitadutta1306&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
